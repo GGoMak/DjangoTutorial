@@ -28,3 +28,13 @@
   - API를 이용하여 DB 추가
   
   - 관리 사이트에서 poll app을 변경가능하도록 만들기
+
+## part 3
+
+  - 뷰 추가하기
+    - detail, results, vote
+    - urls.py 수정
+    - index.html, detail.html 작성
+    
+  - 404 에러 추가
+    - get_object_or_404()
