@@ -61,3 +61,9 @@
   - View 개선
     - IndexView : get_queryset()
     - DetailView : get_queryset()
+
+## part 6
+
+  - 프론트 엔드 작성
+    - style.css 작성
+    - background 이미지 추가
