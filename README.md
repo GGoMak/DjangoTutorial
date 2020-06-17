@@ -50,3 +50,14 @@
   
   - views 수정
     - generic으로 변경
+
+## part 5
+
+  - 테스트 코드 작성
+    - QuestionModelTests
+    - QuestionIndexViewTests
+    - QuestionDetailViewTests
+    
+  - View 개선
+    - IndexView : get_queryset()
+    - DetailView : get_queryset()
