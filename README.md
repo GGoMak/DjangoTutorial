@@ -38,3 +38,15 @@
     
   - 404 에러 추가
     - get_object_or_404()
+    
+## part 4
+
+  - Write a minimal form
+    - detail.html 수정
+  
+  - vote, result API 작성
+  
+  - result.html 작성
+  
+  - views 수정
+    - generic으로 변경
